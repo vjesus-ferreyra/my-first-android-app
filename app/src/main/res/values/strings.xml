@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="image_description">Profile Image</string>
+    <string name="button_github_description">Button to go to GitHub profile site</string>
+    <string name="button_email_description">Button to go to send email to recipient</string>
+    <string name="greetings">H3llo, W0rld 😎</string>
+    <!-- Add your name -->
+    <string name="name">My name is</string>
+    <!-- Add your email -->
+    <string name="email"> </string>
+    <!--Add your username-->
+    <string name="github_profile">https://github.com/</string>
+    <string name="btn_github">Go to Github Profile</string>
+    <string name="subject_to_email">Greetings from internet 🧑‍💻😎</string>
+    <string name="no_email_app">No email app founded ✉️</string>
+    <string name="no_action">I can\'t make this action</string>
+</resources>
